@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #5cb3e2;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 250%;
+}
+
+#history {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+p {
+    font-family: cursive;
+}
+
+.happy {
+    float: left;
+    width: 50%;
+    background-color: red;
+}
+
+.sad {
+    float: right;
+    width: 50%;
+    background-color: green;
+}
+
+.footer {
+    padding-right: 20px;
+    width: auto;
+    display: block;
+    float: right;
+
+}
+
+.boton {
+    margin: auto;
+}
+
+.clearfix {
+    content: "";
+    clear: both;
+    display: table;
+}
