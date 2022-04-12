@@ -23,13 +23,13 @@ p {
 .happy {
     float: left;
     width: 50%;
-    background-color: red;
+    background-color: green;
 }
 
 .sad {
     float: right;
     width: 50%;
-    background-color: green;
+    background-color: red;
 }
 
 .footer {
